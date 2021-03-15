@@ -1,2 +1,3 @@
 # B22task1
-Array Method Tasks
+Array Method Tasks using Arrow functions
+
